@@ -65,13 +65,17 @@ This repository contains a project for Model Deployment Final Exam (4th Semester
 
 ## Education
 #### Bina Nusantara University
-Bachelor of Computer Science - Major in Data Science
+Bachelor of Computer Science - Major in Data Science  
+
 Expected graduation: 2026
+
 Cumulative GPA: 3.71/4.0
 
 ## Contacts
 Email: brandonritchieyang@gmail.com
+
 LinkedIn: [Brandon Ritchie Yang](https://www.linkedin.com/in/brandon-ritchie-yang)
+
 Phone: 08119768890
 
 
