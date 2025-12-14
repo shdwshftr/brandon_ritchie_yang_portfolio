@@ -6,7 +6,7 @@ Data Science Undergraduate with a strong foundation in data analysis, machine le
 #### Food Calorie Tracker
 Personal Project
 
-An automated food calorie tracker Telegram bot using n8n that leverages LLM (Gemini) to analyze food images and provide real-time nutritional breakdowns, including calories intake, fats, and protein. The workflow also autonomously logs every entry into a Google Sheets database. Beside individual meal analysis, the system calculates and returns the user's cumulative daily totals, providing a comprehensive summary of their nutritional goals in real-time.
+An automated food calorie tracker using n8n and Gemini LLM to extract macros from food photos including calories, proteins and fats. The workflow integrates Google Sheets for data persistence and provides users with instant meal analysis alongside an aggregated summary of their total daily intake.
 
 ## Data Science Projects
 #### Hotel Recommendation System
