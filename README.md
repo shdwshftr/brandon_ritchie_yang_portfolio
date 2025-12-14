@@ -2,13 +2,19 @@
 
 Data Science Undergraduate with a strong foundation in data analysis, machine learning, and deep learning. Eager to understand how data can drive business impact and believe that accurate insights come from aligning data with business processes. I look forward to contributing to a data-driven team while expanding my knowledge and skills. Passionate about learning and growing in the field of data science.
 
-## Projects
+## n8n Projects
+#### Food Calorie Tracker
+Personal Project
+
+An automated food calorie tracker Telegram bot using n8n that leverages LLM (Gemini) to analyze food images and provide real-time nutritional breakdowns, including calories intake, fats, and protein. The workflow also autonomously logs every entry into a Google Sheets database. Beside individual meal analysis, the system calculates and returns the user's cumulative daily totals, providing a comprehensive summary of their nutritional goals in real-time.
+
+## Data Science Projects
 #### Hotel Recommendation System
 Data Science Olympiad Final Competition - [Project Detail](https://github.com/shdwshftr/hotel_recommendation)
 
 This is a project for the final round of a local competition 'DSC Olympiad 2023' held by BINUS University Data Science Club which consist of 3 members in a team. Made a machine learning algorithm to provide an accurate list of recommended hotels based on variables given in a dataset to offer an extraordinary stay experience for hotel guests.
 
-#### Financial Sentiment Analysis (On Progress)
+#### Financial Sentiment Analysis
 Personal Project - [Project Detail](https://github.com/shdwshftr/financial_sentiment_analysis)
 
 This is a project for sentiment analysis in financial division, the goal is to learn and perform text pre-processing, data augmentation, and modeling to classify the sentiment of a financial sentence. This project is still on progress. Further work requires more text preprocessing and modeling.
@@ -69,7 +75,7 @@ Bachelor of Computer Science - Major in Data Science
 
 Expected graduation: 2026
 
-Cumulative GPA: 3.71/4.0
+Cumulative GPA: 3.78/4.0
 
 ## Contacts
 Email: brandonritchieyang@gmail.com
