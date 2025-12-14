@@ -1,14 +1,20 @@
 # Undergraduate Data Science Student
 
+<div style="text-align: justify">
 Data Science Undergraduate with a strong foundation in data analysis, machine learning, and deep learning. Eager to understand how data can drive business impact and believe that accurate insights come from aligning data with business processes. I look forward to contributing to a data-driven team while expanding my knowledge and skills. Passionate about learning and growing in the field of data science.
+</div>
 
 ## n8n Projects
 #### Food Calorie Tracker
 Personal Project
 
+<div style="text-align: justify">
 An automated food calorie tracker using n8n and Gemini LLM to extract macros from food photos including calories, proteins and fats. The workflow integrates Google Sheets for data persistence and provides users with instant meal analysis alongside an aggregated summary of their total daily intake.
+</div>
 
-![Alt Text](./image/n8n-workflow.png)
+![n8n-workflow](./image/n8n-workflow.png)
+
+![telegram-bot](./image/telegram-food-tracker.png)
 
 ## Data Science Projects
 #### Hotel Recommendation System
