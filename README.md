@@ -1,6 +1,6 @@
 # Undergraduate Data Science Student
 
-<div style="text-align: justify">
+<div style="text-align: justify; line-height: 1.6;">
 Data Science Undergraduate with a strong foundation in data analysis, machine learning, and deep learning. Eager to understand how data can drive business impact and believe that accurate insights come from aligning data with business processes. I look forward to contributing to a data-driven team while expanding my knowledge and skills. Passionate about learning and growing in the field of data science.
 </div>
 
@@ -8,7 +8,7 @@ Data Science Undergraduate with a strong foundation in data analysis, machine le
 #### Food Calorie Tracker
 Personal Project
 
-<div style="text-align: justify">
+<div style="text-align: justify; line-height: 1.6;">
 An automated food calorie tracker using n8n and Gemini LLM to extract macros from food photos including calories, proteins and fats. The workflow integrates Google Sheets for data persistence and provides users with instant meal analysis alongside an aggregated summary of their total daily intake.
 </div>
 
