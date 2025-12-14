@@ -12,8 +12,10 @@ Personal Project
 An automated food calorie tracker using n8n and Gemini LLM to extract macros from food photos including calories, proteins and fats. The workflow integrates Google Sheets for data persistence and provides users with instant meal analysis alongside an aggregated summary of their total daily intake.
 </div>
 
+n8n workflow:
 ![n8n-workflow](./image/n8n-workflow.png)
 
+Telegram bot:
 ![telegram-bot](./image/telegram-food-tracker.png)
 
 ## Data Science Projects
